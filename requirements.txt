@@ -1,0 +1,4 @@
+moviepy
+azure-cognitiveservices-speech
+pydub
+dotenv
