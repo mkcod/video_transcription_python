@@ -57,7 +57,3 @@ This project extracts audio from a video file and transcribes the audio to text 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-Feel free to customize this `README.md` file further to suit your project's needs!
