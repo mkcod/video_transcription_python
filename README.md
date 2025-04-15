@@ -22,7 +22,7 @@ This project extracts audio from a video file and transcribes the audio to text 
 2. **Install the required packages:**
 
    ```bash
-   pip install moviepy azure-cognitiveservices-speech pydub python-dotenv
+   pip install -r requirements.txt
    ```
 
 3. **Set up Azure Cognitive Services:**
